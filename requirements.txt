@@ -3,3 +3,6 @@ ipywidgets
 matplotlib
 pyfluidsynth
 pretty_midi
+soundfile
+scipy
+setuptools
